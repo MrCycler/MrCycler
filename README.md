@@ -3,55 +3,55 @@
 
 ## Platforms
 
-<p align="left" style="display:flex;gap:12px">
+<div align="left">
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer" >
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" style="background-color:white"/>
+    <img src="https://pbs.twimg.com/profile_images/1377341693964382209/XLGAtguT_400x400.jpg" width="36" height="36" alt="AWS"/>
 </a>
 <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://arunpotti.com/wp-content/uploads/2021/12/microsoft_azure.svg_.png" width="36" height="36" alt="Azure" style="background-color:black"/>
+    <img src="https://arunpotti.com/wp-content/uploads/2021/12/microsoft_azure.svg_.png" width="36" height="36" alt="Azure"/>
 </a>
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://static-00.iconduck.com/assets.00/google-cloud-icon-2048x1646-7admxejz.png" width="36" height="36" alt="GCP" style="background-color:black"/>
+    <img src="https://static-00.iconduck.com/assets.00/google-cloud-icon-2048x1646-7admxejz.png" width="40" height="36" alt="GCP"/>
 </a>
 <a href="https://cloud.ibm.com/" target="_blank" rel="noreferrer">
-    <img src="https://cloud.ibm.com/login/static/img/IBM_Cloud_White_Rev_RGB.png" width="36" height="36" alt="IBM Cloud" style="background-color:black"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/IBM_Cloud_logo.png/250px-IBM_Cloud_logo.png" width="45" height="36" alt="IBM Cloud"/>
 </a>
 <a href="https://vercel.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.datocms-assets.com/75941/1707728323-vercel-icon.svg" width="36" height="36" alt="Vercel" style="background-color:white"/>
+    <img src="https://karmanivero.us/assets/images/logo-vercel.png" width="36" height="36" alt="Vercel"/>
 </a>
-</p>
+</div>
 
 ## Technologies
 
 ### Web Development Frontend
 
-<p align="left" style="display:flex;gap:12px">
+<div align="left">
 <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="36" height="36" alt="HTML" style="background-color:black"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="36" height="36" alt="HTML" />
 </a>
 <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://static-00.iconduck.com/assets.00/file-type-css-icon-902x1024-dqy5inwy.png" width="36" height="36" alt="CSS" style="background-color:black"/>
+    <img src="https://static-00.iconduck.com/assets.00/file-type-css-icon-902x1024-dqy5inwy.png" width="36" height="36" alt="CSS" />
 </a>
 <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JS" style="background-color:black"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36" height="36" alt="JS" />
 </a>
-</p>
+</div>
 
 ### Web Development Backend
 
-<p align="left" style="display:flex;gap:12px">
+<div align="left">
 <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JS" style="background-color:black"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36" height="36" alt="JS"/>
 </a>
-</p>
+</div>
 
 ### Infrastructure & Devops
 
-<p align="left" style="display:flex;gap:12px">
+<div align="left" style="display:flex;gap:12px">
 <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
-    <img src="https://static-00.iconduck.com/assets.00/file-type-terraform-icon-455x512-csyun60o.png" width="36" height="36" alt="Terraform" style="background-color:black"/>
+    <img src="https://static-00.iconduck.com/assets.00/file-type-terraform-icon-455x512-csyun60o.png" width="36" height="36" alt="Terraform"/>
 </a>
-</p>
+</div>
 
 ### Mobile Development
 
