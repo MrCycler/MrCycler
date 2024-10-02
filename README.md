@@ -3,7 +3,7 @@
 
 # ¡Hello World! 👋 I am Juan M. Mendoza (MrCycler)
 
-Bilingual mechatronics engineer and self-taught software developer with 7+ years of experience in software development.
+Bilingual mechatronics engineer and self-taught software developer with 7+ years of experience.
 
 - 🌍 I'm from Lima, Perú.
 - 👨🏽‍💻 I love to program always with a purpose.
