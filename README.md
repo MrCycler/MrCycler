@@ -195,6 +195,7 @@ Bilingual mechatronics engineer and self-taught software developer with 7+ years
 <!---
 ## Socials Networks
 -->
+
 ## Stats
 
 | <img src="https://github-readme-stats.vercel.app/api?username=MrCycler&show_icons=true&hide_border=true&count_private=true&theme=dark&hide_border=true&layout=compact" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrCycler&theme=dark&hide_border=true&layout=compact" /> |
