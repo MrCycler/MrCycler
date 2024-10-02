@@ -200,6 +200,6 @@ Bilingual mechatronics engineer and self-taught software developer with 7+ years
 
 <img src="https://github-readme-stats.vercel.app/api?username=MrCycler&show_icons=true&hide_border=true&count_private=true&theme=dark&hide_border=true&layout=compact" />
 
-<figure><embed src="https://wakatime.com/share/@MrCycler/f2f49b93-e2cd-4f67-a96c-e389a2ded082.svg"></embed></figure>
+<img src="https://wakatime.com/share/@MrCycler/f2f49b93-e2cd-4f67-a96c-e389a2ded082.svg" />
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MrCycler)](https://github.com/MrCycler/github-profile-trophy)
