@@ -1,6 +1,18 @@
 ![](https://komarev.com/ghpvc/?username=MrCycler&color=blue)
 [![wakatime](https://wakatime.com/badge/user/f58982f1-ea2a-49f4-9590-66fec5a145c0.svg)](https://wakatime.com/@f58982f1-ea2a-49f4-9590-66fec5a145c0)
 
+# ¡Hello World! 👋 I am Juan M. Mendoza (MrCycler)
+
+Bilingual mechatronics engineer and self-taught software developer with 7+ years of experience in software development.
+
+- 🌍 I'm from Lima, Perú.
+- 👨🏽‍💻 I love to program always with a purpose.
+- 🐶 I'm father of [Mimi Luciana](https://github.com/mimiluciana) & loving husband.
+- 👨🏽‍🏫 I'm on the way to continue learn about IT & share knowledge with my community.
+- 🚲 I'm MrCycler cause urban cycling is my favorite sport, [follow me](https://www.strava.com/athletes/36642621).
+- 🔨 Mimi Luciana & me are preparing surprises... Wait for it!
+- ✉️ Send me a message [mendoza.jm@pucp.edu.pe](mailto:mendoza.jm@pucp.edu.pe)
+
 ## Technologies
 
 ### Web Development Frontend
@@ -180,10 +192,12 @@
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/refs/heads/main/icons/platforms/vercel.png" width="36" height="36" alt="Vercel"/>
 </a>
 </div>
-
+<!---
 ## Socials Networks
-
+-->
 ## Stats
 
 | <img src="https://github-readme-stats.vercel.app/api?username=MrCycler&show_icons=true&hide_border=true&count_private=true&theme=dark&hide_border=true&layout=compact" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrCycler&theme=dark&hide_border=true&layout=compact" /> |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=MrCycler)](https://github.com/MrCycler/github-profile-trophy)
