@@ -19,13 +19,13 @@ Bilingual mechatronics engineer and self-taught software developer with 7+ years
 
 <div align="left">
 <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="36" height="36" alt="HTML" />
+    <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/refs/heads/main/icons/technologies/HTML.png" width="36" height="36" alt="HTML" />
 </a>
 <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://static-00.iconduck.com/assets.00/file-type-css-icon-902x1024-dqy5inwy.png" width="36" height="36" alt="CSS" />
+    <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/refs/heads/main/icons/technologies/css.png" width="36" height="36" alt="CSS" />
 </a>
 <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36" height="36" alt="JS" />
+    <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/72adc2ca50475789575d8169aba71b337dea98b7/icons/technologies/javascript-icon.svg" width="36" height="36" alt="JS" />
 </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="36" height="36" alt="Typescript" />
@@ -46,7 +46,7 @@ Bilingual mechatronics engineer and self-taught software developer with 7+ years
     <img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" width="36" height="25" alt="Tailwind" />
 </a>
 <a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/W/webpack-logo-9E66EE203A-seeklogo.com.png" width="36" height="36" alt="Webpack" />
+    <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/refs/heads/main/icons/technologies/webpack.png" width="36" height="36" alt="Webpack" />
 </a>
 <a href="https://webpack.js.org/concepts/module-federation" target="_blank" rel="noreferrer">
     <img src="https://miro.medium.com/v2/resize:fit:1400/1*LYa-AhLhP0-3q2O9liL13w.png" width="36" height="36" alt="Module federation" />
@@ -57,7 +57,7 @@ Bilingual mechatronics engineer and self-taught software developer with 7+ years
 
 <div align="left">
 <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36" height="36" alt="JS"/>
+    <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/72adc2ca50475789575d8169aba71b337dea98b7/icons/technologies/javascript-icon.svg" width="36" height="36" alt="JS"/>
 </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="36" height="36" alt="Typescript" />
@@ -89,21 +89,21 @@ Bilingual mechatronics engineer and self-taught software developer with 7+ years
 
 <div align="left">
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="Postgresql"/>
+    <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/72adc2ca50475789575d8169aba71b337dea98b7/icons/technologies/postgresql-colored.svg" width="36" height="36" alt="Postgresql"/>
 </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="Mysql"/>
+    <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/72adc2ca50475789575d8169aba71b337dea98b7/icons/technologies/mysql-colored.svg" width="36" height="36" alt="Mysql"/>
 </a>
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/1200px-Sqlite-square-icon.svg.png" width="36" height="36" alt="SQlite"/>
+    <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/refs/heads/main/icons/technologies/sqlite.png" width="36" height="36" alt="SQlite"/>
 </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="Mongodb"/>
+    <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/72adc2ca50475789575d8169aba71b337dea98b7/icons/technologies/mongodb-colored.svg" width="36" height="36" alt="Mongodb"/>
 </a>
 <a href="https://aws.amazon.com/dynamodb" target="_blank" rel="noreferrer">
-    <img src="https://static-00.iconduck.com/assets.00/aws-dynamodb-icon-227x256-8rljy0a9.png" width="36" height="36" alt="DynamoDB"/>
+    <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/refs/heads/main/icons/technologies/dynamodb.png" width="36" height="36" alt="DynamoDB"/>
 <a href="https://azure.microsoft.com/es-es/products/cosmos-db" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/A/azure-cosmos-db-logo-128436034F-seeklogo.com.png" width="36" height="36" alt="CosmosDB"/>
+    <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/refs/heads/main/icons/technologies/cosmosdb.png" width="36" height="36" alt="CosmosDB"/>
 </a>
 </div>
 
@@ -146,7 +146,7 @@ Bilingual mechatronics engineer and self-taught software developer with 7+ years
     <img src="https://developer.android.com/static/studio/images/android-studio-stable.svg?hl=es-419" width="36" height="36" alt="Android Studio"/>
 </a>
 <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36" height="36" alt="JS"/>
+    <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/72adc2ca50475789575d8169aba71b337dea98b7/icons/technologies/javascript-icon.svg" width="36" height="36" alt="JS"/>
 </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="36" height="36" alt="Typescript" />
@@ -201,4 +201,4 @@ Bilingual mechatronics engineer and self-taught software developer with 7+ years
 <img src="https://wakatime.com/share/@MrCycler/f2f49b93-e2cd-4f67-a96c-e389a2ded082.svg" />
 
 | <img src="https://github-readme-stats.vercel.app/api?username=MrCycler&show_icons=true&hide_border=true&count_private=true&theme=dark&hide_border=true&layout=compact" /> | [![trophy](https://github-profile-trophy.vercel.app/?username=MrCycler)](https://github.com/MrCycler/github-profile-trophy) |
-|--|--|
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
