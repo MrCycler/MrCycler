@@ -28,25 +28,25 @@ Bilingual mechatronics engineer and self-taught software developer with 7+ years
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/72adc2ca50475789575d8169aba71b337dea98b7/icons/technologies/javascript-icon.svg" width="36" height="36" alt="JS" />
 </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="36" height="36" alt="Typescript" />
+    <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/f0ee926253abd039be674d9d58c8bcac5e983f99/icons/technologies/typescript.svg" width="36" height="36" alt="Typescript" />
 </a>
 <a href="https://es.react.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
+    <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/f0ee926253abd039be674d9d58c8bcac5e983f99/icons/technologies/react-colored.svg" width="36" height="36" alt="React" />
 </a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://pbs.twimg.com/profile_images/1565710214019444737/if82cpbS_200x200.jpg" width="36" height="36" alt="Next" />
+    <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/refs/heads/main/icons/technologies/next.jpg" width="36" height="36" alt="Next" />
 </a>
 <a href="https://angular.dev/" target="_blank" rel="noreferrer">
-    <img src="https://docs.angular.lat/assets/images/logos/angular/angular.svg" width="36" height="36" alt="AngularJS" />
+    <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/f0ee926253abd039be674d9d58c8bcac5e983f99/icons/technologies/angular.svg" width="36" height="36" alt="AngularJS" />
 </a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/free-sass-logo-icon-download-in-svg-png-gif-file-formats--brand-development-tools-pack-logos-icons-226054.png?f=webp&w=256" width="36" height="36" alt="SASS" />
+    <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/refs/heads/main/icons/technologies/SASS.png" width="36" height="36" alt="SASS" />
 </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" width="36" height="25" alt="Tailwind" />
 </a>
 <a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/refs/heads/main/icons/technologies/webpack.png" width="36" height="36" alt="Webpack" />
+    <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/refs/heads/main/icons/technologies/webpack.png" width="32" height="36" alt="Webpack" />
 </a>
 <a href="https://webpack.js.org/concepts/module-federation" target="_blank" rel="noreferrer">
     <img src="https://miro.medium.com/v2/resize:fit:1400/1*LYa-AhLhP0-3q2O9liL13w.png" width="36" height="36" alt="Module federation" />
@@ -60,25 +60,25 @@ Bilingual mechatronics engineer and self-taught software developer with 7+ years
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/72adc2ca50475789575d8169aba71b337dea98b7/icons/technologies/javascript-icon.svg" width="36" height="36" alt="JS"/>
 </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="36" height="36" alt="Typescript" />
+    <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/f0ee926253abd039be674d9d58c8bcac5e983f99/icons/technologies/typescript.svg" width="36" height="36" alt="Typescript" />
 </a>
 <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS"/>
 </a>
 <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS"/>
+    <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/f0ee926253abd039be674d9d58c8bcac5e983f99/icons/technologies/nestjs-colored.svg" width="36" height="36" alt="NestJS"/>
 </a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python"/>
+    <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/f0ee926253abd039be674d9d58c8bcac5e983f99/icons/technologies/python-colored.svg" width="36" height="36" alt="Python"/>
 </a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/D/django-logo-4C5ECF7036-seeklogo.com.png" width="36" height="36" alt="Django"/>
+    <img src="https://www.svgrepo.com/show/353657/django-icon.svg" width="36" height="36" alt="Django"/>
 </a>
 <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer">
     <img src="https://storage.caktusgroup.com/media/blog-images/drf-logo2.png" width="50" height="36" alt="DRF"/>
 </a>
 <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java"/>
+    <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/f0ee926253abd039be674d9d58c8bcac5e983f99/icons/technologies/java-colored.svg" width="36" height="36" alt="Java"/>
 </a>
 <a href="https://spring.io/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/600/000000/spring-logo.png" width="36" height="36" alt="Spring"/>
@@ -112,13 +112,13 @@ Bilingual mechatronics engineer and self-taught software developer with 7+ years
 <div align="left">
 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker"/>
+    <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/f0ee926253abd039be674d9d58c8bcac5e983f99/icons/technologies/docker-colored.svg" width="36" height="36" alt="Docker"/>
 </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.ovhcloud.com/sites/default/files/styles/text_media_horizontal/public/2021-04/K8S-logo.png" width="40" height="40" alt="Kubernetes"/>
+    <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/refs/heads/main/icons/technologies/kubernetes.png" width="40" height="40" alt="Kubernetes"/>
 </a>
 <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
-    <img src="https://static-00.iconduck.com/assets.00/file-type-terraform-icon-455x512-csyun60o.png" width="36" height="36" alt="Terraform"/>
+    <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/refs/heads/main/icons/technologies/terraform.png" width="36" height="36" alt="Terraform"/>
 </a>
 </div>
 
@@ -126,13 +126,13 @@ Bilingual mechatronics engineer and self-taught software developer with 7+ years
 
 <div align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python"/>
+    <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/f0ee926253abd039be674d9d58c8bcac5e983f99/icons/technologies/python-colored.svg" width="36" height="36" alt="Python"/>
 </a>
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="Pytorch"/>
+    <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/f0ee926253abd039be674d9d58c8bcac5e983f99/icons/technologies/pytorch-colored.svg" width="36" height="36" alt="Pytorch"/>
 </a>
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://miro.medium.com/v2/resize:fit:1000/1*Pgx0qBpKHFehtZj1K_yXCw.png" width="36" height="36" alt="Tensorflow"/>
+    <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/refs/heads/main/icons/technologies/tensorflow.png" width="36" height="36" alt="Tensorflow"/>
 </a>
 </div>
 
@@ -140,19 +140,19 @@ Bilingual mechatronics engineer and self-taught software developer with 7+ years
 
 <div align="left">
 <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java"/>
+    <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/f0ee926253abd039be674d9d58c8bcac5e983f99/icons/technologies/java-colored.svg" width="36" height="36" alt="Java"/>
 </a>
 <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
-    <img src="https://developer.android.com/static/studio/images/android-studio-stable.svg?hl=es-419" width="36" height="36" alt="Android Studio"/>
+    <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/f0ee926253abd039be674d9d58c8bcac5e983f99/icons/technologies/android-studio.svg" width="36" height="36" alt="Android Studio"/>
 </a>
 <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/72adc2ca50475789575d8169aba71b337dea98b7/icons/technologies/javascript-icon.svg" width="36" height="36" alt="JS"/>
 </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="36" height="36" alt="Typescript" />
+    <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/f0ee926253abd039be674d9d58c8bcac5e983f99/icons/technologies/typescript.svg" width="36" height="36" alt="Typescript" />
 </a>
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React Native" />
+    <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/f0ee926253abd039be674d9d58c8bcac5e983f99/icons/technologies/react-colored.svg" width="36" height="36" alt="React Native" />
 </a>
 </div>
 
@@ -160,16 +160,16 @@ Bilingual mechatronics engineer and self-taught software developer with 7+ years
 
 <div align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git"/>
+    <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/f0ee926253abd039be674d9d58c8bcac5e983f99/icons/technologies/git-colored.svg" width="36" height="36" alt="Git"/>
 </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma"/>
+    <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/f0ee926253abd039be674d9d58c8bcac5e983f99/icons/technologies/figma-colored.svg" width="36" height="36" alt="Figma"/>
 </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" width="36" height="36" alt="Linux"/>
+    <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/refs/heads/main/icons/technologies/Linux.png" width="36" height="36" alt="Linux"/>
 </a>
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" width="40" height="40" alt="Postman"/>
+    <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/f0ee926253abd039be674d9d58c8bcac5e983f99/icons/technologies/postman.svg" width="40" height="40" alt="Postman"/>
 </a>
 </div>
 
