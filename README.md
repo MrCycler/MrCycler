@@ -43,13 +43,13 @@ Bilingual mechatronics engineer and self-taught software developer with 7+ years
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/refs/heads/main/icons/technologies/SASS.png" width="36" height="36" alt="SASS" />
 </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" width="36" height="25" alt="Tailwind" />
+    <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/refs/heads/main/icons/technologies/tailwind.png" width="36" height="25" alt="Tailwind" />
 </a>
 <a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/refs/heads/main/icons/technologies/webpack.png" width="32" height="36" alt="Webpack" />
 </a>
 <a href="https://webpack.js.org/concepts/module-federation" target="_blank" rel="noreferrer">
-    <img src="https://miro.medium.com/v2/resize:fit:1400/1*LYa-AhLhP0-3q2O9liL13w.png" width="36" height="36" alt="Module federation" />
+    <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/refs/heads/main/icons/technologies/module%20federation.png" width="36" height="36" alt="Module federation" />
 </a>
 </div>
 
@@ -63,7 +63,7 @@ Bilingual mechatronics engineer and self-taught software developer with 7+ years
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/f0ee926253abd039be674d9d58c8bcac5e983f99/icons/technologies/typescript.svg" width="36" height="36" alt="Typescript" />
 </a>
 <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS"/>
+    <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/9565f66dff16596c26a0b72c5855ac017b4bd38d/icons/technologies/nodejs-colored.svg" width="36" height="36" alt="NodeJS"/>
 </a>
 <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/f0ee926253abd039be674d9d58c8bcac5e983f99/icons/technologies/nestjs-colored.svg" width="36" height="36" alt="NestJS"/>
@@ -72,16 +72,16 @@ Bilingual mechatronics engineer and self-taught software developer with 7+ years
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/f0ee926253abd039be674d9d58c8bcac5e983f99/icons/technologies/python-colored.svg" width="36" height="36" alt="Python"/>
 </a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/353657/django-icon.svg" width="36" height="36" alt="Django"/>
+    <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/9565f66dff16596c26a0b72c5855ac017b4bd38d/icons/technologies/django-icon.svg" width="36" height="36" alt="Django"/>
 </a>
 <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer">
-    <img src="https://storage.caktusgroup.com/media/blog-images/drf-logo2.png" width="50" height="36" alt="DRF"/>
+    <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/refs/heads/main/icons/technologies/drf.png" width="50" height="36" alt="DRF"/>
 </a>
 <a href="https://www.java.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/f0ee926253abd039be674d9d58c8bcac5e983f99/icons/technologies/java-colored.svg" width="36" height="36" alt="Java"/>
 </a>
 <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/600/000000/spring-logo.png" width="36" height="36" alt="Spring"/>
+    <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/refs/heads/main/icons/technologies/spring.png" width="36" height="36" alt="Spring"/>
 </a>
 </div>
 
