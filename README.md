@@ -135,7 +135,7 @@ Bilingual mechatronics engineer and self-taught software developer with 7+ years
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/refs/heads/main/icons/technologies/tensorflow.png" width="36" height="36" alt="Tensorflow"/>
 </a>
 <a href="https://openai.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/refs/heads/main/icons/technologies/openAI.png" width="36" height="36" alt="OpenAI"/>
+    <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/refs/heads/main/icons/technologies/openAI.svg" width="36" height="36" alt="OpenAI"/>
 </a>
 </div>
 
