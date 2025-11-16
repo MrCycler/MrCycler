@@ -120,6 +120,9 @@ Bilingual mechatronics engineer and self-taught software developer with 7+ years
 <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/refs/heads/main/icons/technologies/terraform.png" width="36" height="36" alt="Terraform"/>
 </a>
+<a href="https://github.com/features/actions/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/refs/heads/main/icons/technologies/devops/github-actions-icon.png" width="36" height="36" alt="GitHub Actions"/>
+</a>
 </div>
 
 ### Machine Learning & IA
