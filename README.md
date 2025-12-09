@@ -1,9 +1,11 @@
-![](https://komarev.com/ghpvc/?username=MrCycler&color=blue)
-[![wakatime](https://wakatime.com/badge/user/f58982f1-ea2a-49f4-9590-66fec5a145c0.svg)](https://wakatime.com/@f58982f1-ea2a-49f4-9590-66fec5a145c0)
+<!-- markdownlint-disable MD033 -->
 
 # ¡Hello World! 👋 I am Juan M. Mendoza (MrCycler)
 
-Bilingual mechatronics engineer and self-taught software developer with 7+ years of experience.
+![Profile Views](https://komarev.com/ghpvc/?username=MrCycler&color=blue)
+[![Wakatime](https://wakatime.com/badge/user/f58982f1-ea2a-49f4-9590-66fec5a145c0.svg)](https://wakatime.com/@f58982f1-ea2a-49f4-9590-66fec5a145c0)
+
+Bilingual mechatronics engineer and self-taught software developer with 8+ years of experience.
 
 - 🌍 I'm from Lima, Perú.
 - 👨🏽‍💻 I love to program always with a purpose.
@@ -102,6 +104,7 @@ Bilingual mechatronics engineer and self-taught software developer with 7+ years
 </a>
 <a href="https://aws.amazon.com/dynamodb" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/refs/heads/main/icons/technologies/dynamodb.png" width="36" height="36" alt="DynamoDB"/>
+</a>
 <a href="https://azure.microsoft.com/es-es/products/cosmos-db" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/refs/heads/main/icons/technologies/cosmosdb.png" width="36" height="36" alt="CosmosDB"/>
 </a>
@@ -114,7 +117,7 @@ Bilingual mechatronics engineer and self-taught software developer with 7+ years
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/f0ee926253abd039be674d9d58c8bcac5e983f99/icons/technologies/docker-colored.svg" width="36" height="36" alt="Docker"/>
 </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+<a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/refs/heads/main/icons/technologies/kubernetes.png" width="40" height="40" alt="Kubernetes"/>
 </a>
 <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
@@ -204,7 +207,4 @@ Bilingual mechatronics engineer and self-taught software developer with 7+ years
 
 ## Stats
 
-<img src="https://wakatime.com/share/@MrCycler/f2f49b93-e2cd-4f67-a96c-e389a2ded082.svg" />
-
-| <img src="https://github-readme-stats.vercel.app/api?username=MrCycler&show_icons=true&hide_border=true&count_private=true&theme=dark&hide_border=true&layout=compact" /> | [![trophy](https://github-profile-trophy.vercel.app/?username=MrCycler)](https://github.com/MrCycler/github-profile-trophy) |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+<img src="https://wakatime.com/share/@MrCycler/f2f49b93-e2cd-4f67-a96c-e389a2ded082.svg" alt="WakaTime Stats"/>
