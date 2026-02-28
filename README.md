@@ -85,6 +85,35 @@ Bilingual mechatronics engineer and self-taught software developer with 8+ years
 <a href="https://spring.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/refs/heads/main/icons/technologies/spring.png" width="36" height="36" alt="Spring"/>
 </a>
+<a href="https://es.quarkus.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/refs/heads/main/icons/technologies/quarkus-icon.jpg" width="36" height="36" alt="Quarkus"/>
+</a>
+</div>
+
+### Machine Learning & IA
+
+<div align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/f0ee926253abd039be674d9d58c8bcac5e983f99/icons/technologies/python-colored.svg" width="36" height="36" alt="Python"/>
+</a>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/f0ee926253abd039be674d9d58c8bcac5e983f99/icons/technologies/pytorch-colored.svg" width="36" height="36" alt="Pytorch"/>
+</a>
+<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/refs/heads/main/icons/technologies/tensorflow.png" width="36" height="36" alt="Tensorflow"/>
+</a>
+<a href="https://openai.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/refs/heads/main/icons/technologies/openAI.svg" width="36" height="36" alt="OpenAI"/>
+</a>
+<a href="https://claude.com/product/overview" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/refs/heads/main/icons/technologies/claude-icon.png" width="36" height="36" alt="Claude"/>
+</a>
+<a href="https://gemini.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/refs/heads/main/icons/technologies/gemini-icon.png" width="36" height="36" alt="Gemini"/>
+</a>
+<a href="https://github.com/features/copilot" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/refs/heads/main/icons/technologies/ghcopilot-icon.png" width="36" height="36" alt="GitHub Copilot"/>
+</a>
 </div>
 
 ### Databases
@@ -102,11 +131,11 @@ Bilingual mechatronics engineer and self-taught software developer with 8+ years
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/72adc2ca50475789575d8169aba71b337dea98b7/icons/technologies/mongodb-colored.svg" width="36" height="36" alt="Mongodb"/>
 </a>
-<a href="https://aws.amazon.com/dynamodb" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/refs/heads/main/icons/technologies/dynamodb.png" width="36" height="36" alt="DynamoDB"/>
-</a>
 <a href="https://azure.microsoft.com/es-es/products/cosmos-db" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/refs/heads/main/icons/technologies/cosmosdb.png" width="36" height="36" alt="CosmosDB"/>
+</a>
+<a href="https://aws.amazon.com/dynamodb" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/refs/heads/main/icons/technologies/dynamodb.png" width="36" height="36" alt="DynamoDB"/>
 </a>
 </div>
 
@@ -125,23 +154,6 @@ Bilingual mechatronics engineer and self-taught software developer with 8+ years
 </a>
 <a href="https://github.com/features/actions/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/refs/heads/main/icons/technologies/devops/github-actions-icon.png" width="36" height="36" alt="GitHub Actions"/>
-</a>
-</div>
-
-### Machine Learning & IA
-
-<div align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/f0ee926253abd039be674d9d58c8bcac5e983f99/icons/technologies/python-colored.svg" width="36" height="36" alt="Python"/>
-</a>
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/f0ee926253abd039be674d9d58c8bcac5e983f99/icons/technologies/pytorch-colored.svg" width="36" height="36" alt="Pytorch"/>
-</a>
-<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/refs/heads/main/icons/technologies/tensorflow.png" width="36" height="36" alt="Tensorflow"/>
-</a>
-<a href="https://openai.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/refs/heads/main/icons/technologies/openAI.svg" width="36" height="36" alt="OpenAI"/>
 </a>
 </div>
 
@@ -182,7 +194,7 @@ Bilingual mechatronics engineer and self-taught software developer with 8+ years
 </a>
 </div>
 
-## Platforms
+## Platforms & Cloud Providers
 
 <div align="left">
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer" >
