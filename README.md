@@ -19,7 +19,7 @@ Bilingual mechatronics engineer and self-taught software developer with 8+ years
 
 ### Web Development Frontend
 
-<div align="left" style="display: flex; gap: 8px; flex-wrap: wrap;">
+<p align="left">
 <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/refs/heads/main/icons/technologies/HTML.png" width="36" height="36" alt="HTML" />
 </a>
@@ -53,11 +53,11 @@ Bilingual mechatronics engineer and self-taught software developer with 8+ years
 <a href="https://webpack.js.org/concepts/module-federation" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/refs/heads/main/icons/technologies/module%20federation.png" width="36" height="36" alt="Module federation" />
 </a>
-</div>
+</p>
 
 ### Web Development Backend
 
-<div align="left" style="display: flex; gap: 8px; flex-wrap: wrap;">
+<p align="left">
 <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/72adc2ca50475789575d8169aba71b337dea98b7/icons/technologies/javascript-icon.svg" width="36" height="36" alt="JS"/>
 </a>
@@ -88,11 +88,11 @@ Bilingual mechatronics engineer and self-taught software developer with 8+ years
 <a href="https://es.quarkus.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/refs/heads/main/icons/technologies/quarkus-icon.jpg" width="36" height="36" alt="Quarkus"/>
 </a>
-</div>
+</p>
 
 ### Machine Learning & IA
 
-<div align="left" style="display: flex; gap: 8px; flex-wrap: wrap;">
+<p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/f0ee926253abd039be674d9d58c8bcac5e983f99/icons/technologies/python-colored.svg" width="36" height="36" alt="Python"/>
 </a>
@@ -114,11 +114,11 @@ Bilingual mechatronics engineer and self-taught software developer with 8+ years
 <a href="https://github.com/features/copilot" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/refs/heads/main/icons/technologies/ghcopilot-icon.png" width="36" height="36" alt="GitHub Copilot"/>
 </a>
-</div>
+</p>
 
 ### Databases
 
-<div align="left" style="display: flex; gap: 8px; flex-wrap: wrap;">
+<p align="left">
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/72adc2ca50475789575d8169aba71b337dea98b7/icons/technologies/postgresql-colored.svg" width="36" height="36" alt="Postgresql"/>
 </a>
@@ -137,11 +137,11 @@ Bilingual mechatronics engineer and self-taught software developer with 8+ years
 <a href="https://aws.amazon.com/dynamodb" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/refs/heads/main/icons/technologies/dynamodb.png" width="36" height="36" alt="DynamoDB"/>
 </a>
-</div>
+</p>
 
 ### Infrastructure & Devops
 
-<div align="left" style="display: flex; gap: 8px; flex-wrap: wrap;">
+<p align="left">
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/f0ee926253abd039be674d9d58c8bcac5e983f99/icons/technologies/docker-colored.svg" width="36" height="36" alt="Docker"/>
 </a>
@@ -154,11 +154,11 @@ Bilingual mechatronics engineer and self-taught software developer with 8+ years
 <a href="https://github.com/features/actions/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/refs/heads/main/icons/technologies/devops/github-actions-icon.png" width="36" height="36" alt="GitHub Actions"/>
 </a>
-</div>
+</p>
 
 ### Mobile Development
 
-<div align="left" style="display: flex; gap: 8px; flex-wrap: wrap;">
+<p align="left">
 <a href="https://www.java.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/f0ee926253abd039be674d9d58c8bcac5e983f99/icons/technologies/java-colored.svg" width="36" height="36" alt="Java"/>
 </a>
@@ -174,11 +174,11 @@ Bilingual mechatronics engineer and self-taught software developer with 8+ years
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/f0ee926253abd039be674d9d58c8bcac5e983f99/icons/technologies/react-colored.svg" width="36" height="36" alt="React Native" />
 </a>
-</div>
+</p>
 
 ### Other technologies
 
-<div align="left" style="display: flex; gap: 8px; flex-wrap: wrap;">
+<p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/f0ee926253abd039be674d9d58c8bcac5e983f99/icons/technologies/git-colored.svg" width="36" height="36" alt="Git"/>
 </a>
@@ -191,11 +191,11 @@ Bilingual mechatronics engineer and self-taught software developer with 8+ years
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/f0ee926253abd039be674d9d58c8bcac5e983f99/icons/technologies/postman.svg" width="40" height="40" alt="Postman"/>
 </a>
-</div>
+</p>
 
 ## Platforms & Cloud Providers
 
-<div align="left" style="display: flex; gap: 8px; flex-wrap: wrap;">
+<p align="left">
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer" >
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/refs/heads/main/icons/platforms/aws.jpg" width="36" height="36" alt="AWS"/>
 </a>
@@ -211,7 +211,7 @@ Bilingual mechatronics engineer and self-taught software developer with 8+ years
 <a href="https://vercel.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/refs/heads/main/icons/platforms/vercel.png" width="36" height="36" alt="Vercel"/>
 </a>
-</div>
+</p>
 <!---
 ## Socials Networks
 -->
