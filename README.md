@@ -20,38 +20,58 @@ Bilingual mechatronics engineer and self-taught software developer with 8+ years
 ### Web Development Frontend
 
 <table>
-<tr>
-<td align="left">
+<tr align="left">
+<td>
 <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/refs/heads/main/icons/technologies/HTML.png" width="36" height="36" alt="HTML" />
 </a>
+</td>
+<td>
 <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/refs/heads/main/icons/technologies/css.png" width="36" height="36" alt="CSS" />
 </a>
+</td>
+<td>
 <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/72adc2ca50475789575d8169aba71b337dea98b7/icons/technologies/javascript-icon.svg" width="36" height="36" alt="JS" />
 </a>
+</td>
+<td>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/f0ee926253abd039be674d9d58c8bcac5e983f99/icons/technologies/typescript.svg" width="36" height="36" alt="Typescript" />
 </a>
+</td>
+<td>
 <a href="https://es.react.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/f0ee926253abd039be674d9d58c8bcac5e983f99/icons/technologies/react-colored.svg" width="36" height="36" alt="React" />
 </a>
+</td>
+<td>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/refs/heads/main/icons/technologies/next.jpg" width="36" height="36" alt="Next" />
 </a>
+</td>
+<td>
 <a href="https://angular.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/f0ee926253abd039be674d9d58c8bcac5e983f99/icons/technologies/angular.svg" width="36" height="36" alt="AngularJS" />
 </a>
+</td>
+<td>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/refs/heads/main/icons/technologies/SASS.png" width="36" height="36" alt="SASS" />
 </a>
+</td>
+<td>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/refs/heads/main/icons/technologies/tailwind.png" width="36" height="25" alt="Tailwind" />
 </a>
+</td>
+<td>
 <a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/refs/heads/main/icons/technologies/webpack.png" width="32" height="36" alt="Webpack" />
 </a>
+</td>
+<td>
 <a href="https://webpack.js.org/concepts/module-federation" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/refs/heads/main/icons/technologies/module%20federation.png" width="36" height="36" alt="Module federation" />
 </a>
@@ -62,35 +82,53 @@ Bilingual mechatronics engineer and self-taught software developer with 8+ years
 ### Web Development Backend
 
 <table>
-<tr>
-<td align="left">
+<tr align="left">
+<td>
 <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/72adc2ca50475789575d8169aba71b337dea98b7/icons/technologies/javascript-icon.svg" width="36" height="36" alt="JS"/>
 </a>
+</td>
+<td>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/f0ee926253abd039be674d9d58c8bcac5e983f99/icons/technologies/typescript.svg" width="36" height="36" alt="Typescript" />
 </a>
+</td>
+<td>
 <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/9565f66dff16596c26a0b72c5855ac017b4bd38d/icons/technologies/nodejs-colored.svg" width="36" height="36" alt="NodeJS"/>
 </a>
+</td>
+<td>
 <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/f0ee926253abd039be674d9d58c8bcac5e983f99/icons/technologies/nestjs-colored.svg" width="36" height="36" alt="NestJS"/>
 </a>
+</td>
+<td>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/f0ee926253abd039be674d9d58c8bcac5e983f99/icons/technologies/python-colored.svg" width="36" height="36" alt="Python"/>
 </a>
+</td>
+<td>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/9565f66dff16596c26a0b72c5855ac017b4bd38d/icons/technologies/django-icon.svg" width="36" height="36" alt="Django"/>
 </a>
+</td>
+<td>
 <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/refs/heads/main/icons/technologies/drf.png" width="50" height="36" alt="DRF"/>
 </a>
+</td>
+<td>
 <a href="https://www.java.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/f0ee926253abd039be674d9d58c8bcac5e983f99/icons/technologies/java-colored.svg" width="36" height="36" alt="Java"/>
 </a>
+</td>
+<td>
 <a href="https://spring.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/refs/heads/main/icons/technologies/spring.png" width="36" height="36" alt="Spring"/>
 </a>
+</td>
+<td>
 <a href="https://es.quarkus.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/refs/heads/main/icons/technologies/quarkus-icon.jpg" width="36" height="36" alt="Quarkus"/>
 </a>
@@ -101,26 +139,38 @@ Bilingual mechatronics engineer and self-taught software developer with 8+ years
 ### Machine Learning & IA
 
 <table>
-<tr>
-<td align="left">
+<tr align="left">
+<td>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/f0ee926253abd039be674d9d58c8bcac5e983f99/icons/technologies/python-colored.svg" width="36" height="36" alt="Python"/>
 </a>
+</td>
+<td>
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/f0ee926253abd039be674d9d58c8bcac5e983f99/icons/technologies/pytorch-colored.svg" width="36" height="36" alt="Pytorch"/>
 </a>
+</td>
+<td>
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/refs/heads/main/icons/technologies/tensorflow.png" width="36" height="36" alt="Tensorflow"/>
 </a>
+</td>
+<td>
 <a href="https://openai.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/refs/heads/main/icons/technologies/openAI.svg" width="36" height="36" alt="OpenAI"/>
 </a>
+</td>
+<td>
 <a href="https://claude.com/product/overview" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/refs/heads/main/icons/technologies/claude-icon.png" width="36" height="36" alt="Claude"/>
 </a>
+</td>
+<td>
 <a href="https://gemini.google.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/refs/heads/main/icons/technologies/gemini-icon.png" width="36" height="36" alt="Gemini"/>
 </a>
+</td>
+<td>
 <a href="https://github.com/features/copilot" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/refs/heads/main/icons/technologies/ghcopilot-icon.png" width="36" height="36" alt="GitHub Copilot"/>
 </a>
@@ -131,23 +181,33 @@ Bilingual mechatronics engineer and self-taught software developer with 8+ years
 ### Databases
 
 <table>
-<tr>
-<td align="left">
+<tr align="left">
+<td>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/72adc2ca50475789575d8169aba71b337dea98b7/icons/technologies/postgresql-colored.svg" width="36" height="36" alt="Postgresql"/>
 </a>
+</td>
+<td>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/72adc2ca50475789575d8169aba71b337dea98b7/icons/technologies/mysql-colored.svg" width="36" height="36" alt="Mysql"/>
 </a>
+</td>
+<td>
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/refs/heads/main/icons/technologies/sqlite.png" width="36" height="36" alt="SQlite"/>
 </a>
+</td>
+<td>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/72adc2ca50475789575d8169aba71b337dea98b7/icons/technologies/mongodb-colored.svg" width="36" height="36" alt="Mongodb"/>
 </a>
+</td>
+<td>
 <a href="https://azure.microsoft.com/es-es/products/cosmos-db" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/refs/heads/main/icons/technologies/cosmosdb.png" width="36" height="36" alt="CosmosDB"/>
 </a>
+</td>
+<td>
 <a href="https://aws.amazon.com/dynamodb" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/refs/heads/main/icons/technologies/dynamodb.png" width="36" height="36" alt="DynamoDB"/>
 </a>
@@ -158,17 +218,23 @@ Bilingual mechatronics engineer and self-taught software developer with 8+ years
 ### Infrastructure & Devops
 
 <table>
-<tr>
-<td align="left">
+<tr align="left">
+<td>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/f0ee926253abd039be674d9d58c8bcac5e983f99/icons/technologies/docker-colored.svg" width="36" height="36" alt="Docker"/>
 </a>
+</td>
+<td>
 <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/refs/heads/main/icons/technologies/kubernetes.png" width="40" height="40" alt="Kubernetes"/>
 </a>
+</td>
+<td>
 <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/refs/heads/main/icons/technologies/terraform.png" width="36" height="36" alt="Terraform"/>
 </a>
+</td>
+<td>
 <a href="https://github.com/features/actions/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/refs/heads/main/icons/technologies/devops/github-actions-icon.png" width="36" height="36" alt="GitHub Actions"/>
 </a>
@@ -179,20 +245,28 @@ Bilingual mechatronics engineer and self-taught software developer with 8+ years
 ### Mobile Development
 
 <table>
-<tr>
-<td align="left">
+<tr align="left">
+<td>
 <a href="https://www.java.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/f0ee926253abd039be674d9d58c8bcac5e983f99/icons/technologies/java-colored.svg" width="36" height="36" alt="Java"/>
 </a>
+</td>
+<td>
 <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/f0ee926253abd039be674d9d58c8bcac5e983f99/icons/technologies/android-studio.svg" width="36" height="36" alt="Android Studio"/>
 </a>
+</td>
+<td>
 <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/72adc2ca50475789575d8169aba71b337dea98b7/icons/technologies/javascript-icon.svg" width="36" height="36" alt="JS"/>
 </a>
+</td>
+<td>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/f0ee926253abd039be674d9d58c8bcac5e983f99/icons/technologies/typescript.svg" width="36" height="36" alt="Typescript" />
 </a>
+</td>
+<td>
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/f0ee926253abd039be674d9d58c8bcac5e983f99/icons/technologies/react-colored.svg" width="36" height="36" alt="React Native" />
 </a>
@@ -203,17 +277,23 @@ Bilingual mechatronics engineer and self-taught software developer with 8+ years
 ### Other technologies
 
 <table>
-<tr>
-<td align="left">
+<tr align="left">
+<td>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/f0ee926253abd039be674d9d58c8bcac5e983f99/icons/technologies/git-colored.svg" width="36" height="36" alt="Git"/>
 </a>
+</td>
+<td>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/f0ee926253abd039be674d9d58c8bcac5e983f99/icons/technologies/figma-colored.svg" width="36" height="36" alt="Figma"/>
 </a>
+</td>
+<td>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/refs/heads/main/icons/technologies/Linux.png" width="36" height="36" alt="Linux"/>
 </a>
+</td>
+<td>
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/f0ee926253abd039be674d9d58c8bcac5e983f99/icons/technologies/postman.svg" width="40" height="40" alt="Postman"/>
 </a>
@@ -224,20 +304,28 @@ Bilingual mechatronics engineer and self-taught software developer with 8+ years
 ## Platforms & Cloud Providers
 
 <table>
-<tr>
-<td align="left">
+<tr align="left">
+<td>
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer" >
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/refs/heads/main/icons/platforms/aws.jpg" width="36" height="36" alt="AWS"/>
 </a>
+</td>
+<td>
 <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/refs/heads/main/icons/platforms/microsoft-azure.png" width="36" height="36" alt="Azure"/>
 </a>
+</td>
+<td>
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/refs/heads/main/icons/platforms/gcp.png" width="36" height="30" alt="GCP"/>
 </a>
+</td>
+<td>
 <a href="https://cloud.ibm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/refs/heads/main/icons/platforms/IBM.png" width="45" height="36" alt="IBM Cloud"/>
 </a>
+</td>
+<td>
 <a href="https://vercel.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/refs/heads/main/icons/platforms/vercel.png" width="36" height="36" alt="Vercel"/>
 </a>
