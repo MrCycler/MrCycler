@@ -19,7 +19,7 @@ Bilingual mechatronics engineer and self-taught software developer with 8+ years
 
 ### Web Development Frontend
 
-<div align="left">
+<div align="left" style="display: flex; gap: 8px; flex-wrap: wrap;">
 <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/refs/heads/main/icons/technologies/HTML.png" width="36" height="36" alt="HTML" />
 </a>
@@ -57,7 +57,7 @@ Bilingual mechatronics engineer and self-taught software developer with 8+ years
 
 ### Web Development Backend
 
-<div align="left">
+<div align="left" style="display: flex; gap: 8px; flex-wrap: wrap;">
 <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/72adc2ca50475789575d8169aba71b337dea98b7/icons/technologies/javascript-icon.svg" width="36" height="36" alt="JS"/>
 </a>
@@ -92,7 +92,7 @@ Bilingual mechatronics engineer and self-taught software developer with 8+ years
 
 ### Machine Learning & IA
 
-<div align="left">
+<div align="left" style="display: flex; gap: 8px; flex-wrap: wrap;">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/f0ee926253abd039be674d9d58c8bcac5e983f99/icons/technologies/python-colored.svg" width="36" height="36" alt="Python"/>
 </a>
@@ -118,7 +118,7 @@ Bilingual mechatronics engineer and self-taught software developer with 8+ years
 
 ### Databases
 
-<div align="left">
+<div align="left" style="display: flex; gap: 8px; flex-wrap: wrap;">
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/72adc2ca50475789575d8169aba71b337dea98b7/icons/technologies/postgresql-colored.svg" width="36" height="36" alt="Postgresql"/>
 </a>
@@ -141,8 +141,7 @@ Bilingual mechatronics engineer and self-taught software developer with 8+ years
 
 ### Infrastructure & Devops
 
-<div align="left">
-
+<div align="left" style="display: flex; gap: 8px; flex-wrap: wrap;">
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/f0ee926253abd039be674d9d58c8bcac5e983f99/icons/technologies/docker-colored.svg" width="36" height="36" alt="Docker"/>
 </a>
@@ -159,7 +158,7 @@ Bilingual mechatronics engineer and self-taught software developer with 8+ years
 
 ### Mobile Development
 
-<div align="left">
+<div align="left" style="display: flex; gap: 8px; flex-wrap: wrap;">
 <a href="https://www.java.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/f0ee926253abd039be674d9d58c8bcac5e983f99/icons/technologies/java-colored.svg" width="36" height="36" alt="Java"/>
 </a>
@@ -179,7 +178,7 @@ Bilingual mechatronics engineer and self-taught software developer with 8+ years
 
 ### Other technologies
 
-<div align="left">
+<div align="left" style="display: flex; gap: 8px; flex-wrap: wrap;">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/f0ee926253abd039be674d9d58c8bcac5e983f99/icons/technologies/git-colored.svg" width="36" height="36" alt="Git"/>
 </a>
@@ -196,7 +195,7 @@ Bilingual mechatronics engineer and self-taught software developer with 8+ years
 
 ## Platforms & Cloud Providers
 
-<div align="left">
+<div align="left" style="display: flex; gap: 8px; flex-wrap: wrap;">
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer" >
     <img src="https://raw.githubusercontent.com/MrCycler/MrCycler/refs/heads/main/icons/platforms/aws.jpg" width="36" height="36" alt="AWS"/>
 </a>
